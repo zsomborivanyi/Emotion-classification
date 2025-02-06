@@ -1,0 +1,8 @@
+numpy
+librosa
+soundfile
+sounddevice
+matplotlib
+seaborn
+scikit-learn
+scipy
